@@ -1,0 +1,3 @@
+Pierwsza: 93639
+Liczb z pierwsza cyfra rowna ostatniej: 18
+10 [99792, 20992, 56064] 6 62790
